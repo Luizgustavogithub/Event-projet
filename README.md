@@ -64,8 +64,8 @@ O projeto está organizado nos seguintes pacotes e classes principais:
 
 1.  **Clone o Repositório (ou baixe os arquivos):**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio-eventos.git](https://github.com/seu-usuario/seu-repositorio-eventos.git)
-    cd seu-repositorio-eventos
+    git clone [https://github.com/Luizgustavogithub/Event-projet.git](https://github.com/Luizgustavogithub/Event-projet.git)
+    cd Event-project
     ```
 
 2.  **Estrutura de Pastas Esperada:**
@@ -119,5 +119,3 @@ Estes arquivos serão criados automaticamente no diretório raiz do projeto (`se
 * Adicionar um limite de participantes para os eventos.
 
 ---
-
-Sinta-se à vontade para contribuir com o projeto!
